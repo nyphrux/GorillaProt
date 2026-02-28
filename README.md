@@ -27,7 +27,6 @@
 
 ---
 
-> [!INFO]
 > Gorilla prot protects you from: </br>
 > - Stump Kicks </br>
 > - Crashes </br>
