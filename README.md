@@ -2,6 +2,7 @@
 <p align="center">Protects your game/user from bad stuff.</p>
 
 <div align="center">
+    <p>https://discord.com/invite/6MVgmVp73c</p>
     <a href="https://discord.gg/6MVgmVp73c"><img src="https://img.shields.io/discord/1471769970533863498?logo=discord&color=pink" alt="Discord"/></a>
     <br>
     <img src="https://img.shields.io/github/last-commit/nyphrux/GorillaProt" alt="GitHub last commit"/>
